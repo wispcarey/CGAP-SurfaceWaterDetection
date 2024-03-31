@@ -92,7 +92,7 @@ in *Active Learning Selection* to select a representative set (RepSet). Here you
 `RiverPIXELS/Fix_features/AAL_features.npy`.
 
 ## Apply Our Approach to ANY LandSat Image
-Please check our GitHub repository of [GlobalGEEWater](https://github.com/wispcarey/GlobalRiverPIXELS).
+Please check our GitHub repository of [Global Earth Classifier](https://github.com/wispcarey/GlobalRiverPIXELS).
 
 ## License
 MIT License
